@@ -1,0 +1,12 @@
+{
+    "name": "cheradip",
+    "version": "1.0.0",
+    "description": "Cheradip: An islan of Bangladesh with full of Beaty!",
+    "dependencies": {
+        "express": "^4.17.1"
+      },
+      "engines": {
+        "node": "14.x"
+      }
+    }
+  
